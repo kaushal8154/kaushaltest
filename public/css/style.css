@@ -1,0 +1,17 @@
+
+#siteheader{
+    background-color: rgb(148, 99, 25);
+}
+
+#pagecontent{
+    padding: 10px 0 0 0;
+}
+
+.message{
+    font-weight: bold;
+    text-align: center;
+}
+
+.error{
+    color:red;
+}
